@@ -1,0 +1,52 @@
+[
+  {
+    "name": "New England",
+    "us_census_division_num": "1",
+    "us_census_region_num": "1"
+  },
+  {
+    "name": "Mid-Atlantic",
+    "us_census_division_num": "2",
+    "us_census_region_num": "1"
+  },
+  {
+    "name": "East North Central",
+    "us_census_division_num": "3",
+    "us_census_region_num": "2"
+  },
+  {
+    "name": "West North Central",
+    "us_census_division_num": "4",
+    "us_census_region_num": "2"
+  },
+  {
+    "name": "South Atlantic",
+    "us_census_division_num": "5",
+    "us_census_region_num": "3"
+  },
+  {
+    "name": "East South Central",
+    "us_census_division_num": "6",
+    "us_census_region_num": "3"
+  },
+  {
+    "name": "West South Central",
+    "us_census_division_num": "7",
+    "us_census_region_num": "3"
+  },
+  {
+    "name": "Mountain",
+    "us_census_division_num": "8",
+    "us_census_region_num": "4"
+  },
+  {
+    "name": "Pacific",
+    "us_census_division_num": "9",
+    "us_census_region_num": "4"
+  },
+  {
+    "name": "Unassociated",
+    "us_census_division_num": "0",
+    "us_census_region_num": "0"
+  }
+]

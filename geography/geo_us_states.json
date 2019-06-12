@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "us_census_division_num": "6"
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "us_census_division_num": "9"
+  },
+  {
+    "name": "American Samoa",
+    "abbreviation": "AS",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "us_census_division_num": "8"
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "us_census_division_num": "7"
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "us_census_division_num": "9"
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "us_census_division_num": "8"
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "us_census_division_num": "1"
+  },
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "District Of Columbia",
+    "abbreviation": "DC",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "Federated States Of Micronesia",
+    "abbreviation": "FM",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "Guam",
+    "abbreviation": "GU",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "us_census_division_num": "9"
+  },
+  {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "us_census_division_num": "8"
+  },
+  {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "us_census_division_num": "3"
+  },
+  {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "us_census_division_num": "3"
+  },
+  {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "us_census_division_num": "4"
+  },
+  {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "us_census_division_num": "4"
+  },
+  {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "us_census_division_num": "6"
+  },
+  {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "us_census_division_num": "7"
+  },
+  {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "us_census_division_num": "1"
+  },
+  {
+    "name": "Marshall Islands",
+    "abbreviation": "MH",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "us_census_division_num": "1"
+  },
+  {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "us_census_division_num": "3"
+  },
+  {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "us_census_division_num": "4"
+  },
+  {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "us_census_division_num": "6"
+  },
+  {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "us_census_division_num": "4"
+  },
+  {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "us_census_division_num": "8"
+  },
+  {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "us_census_division_num": "4"
+  },
+  {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "us_census_division_num": "8"
+  },
+  {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "us_census_division_num": "1"
+  },
+  {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "us_census_division_num": "2"
+  },
+  {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "us_census_division_num": "8"
+  },
+  {
+    "name": "New York",
+    "abbreviation": "NY",
+    "us_census_division_num": "2"
+  },
+  {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "us_census_division_num": "4"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "abbreviation": "MP",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "us_census_division_num": "3"
+  },
+  {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "us_census_division_num": "7"
+  },
+  {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "us_census_division_num": "9"
+  },
+  {
+    "name": "Palau",
+    "abbreviation": "PW",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "us_census_division_num": "2"
+  },
+  {
+    "name": "Puerto Rico",
+    "abbreviation": "PR",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "us_census_division_num": "1"
+  },
+  {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "us_census_division_num": "4"
+  },
+  {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "us_census_division_num": "6"
+  },
+  {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "us_census_division_num": "7"
+  },
+  {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "us_census_division_num": "8"
+  },
+  {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "us_census_division_num": "1"
+  },
+  {
+    "name": "Virgin Islands",
+    "abbreviation": "VI",
+    "us_census_division_num": "0"
+  },
+  {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "us_census_division_num": "9"
+  },
+  {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "us_census_division_num": "5"
+  },
+  {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "us_census_division_num": "3"
+  },
+  {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "us_census_division_num": "8"
+  }
+]

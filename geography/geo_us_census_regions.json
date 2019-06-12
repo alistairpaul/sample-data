@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Northeast",
+    "us_census_region_num": "1"
+  },
+  {
+    "name": "Midwest",
+    "us_census_region_num": "2"
+  },
+  {
+    "name": "South",
+    "us_census_region_num": "3"
+  },
+  {
+    "name": "West",
+    "us_census_region_num": "4"
+  },
+  {
+    "name": "Unassociated",
+    "us_census_region_num": "0"
+  }
+]
